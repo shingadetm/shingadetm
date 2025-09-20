@@ -1,3 +1,57 @@
+
+# Hi, I'm Tushar Shingade 👋
+
+## About Me
+
+With over 8.5 years of experience in the asset management and indexing domain, I specialize in research, product development, portfolio analytics, and data management. My expertise spans leading market data providers and index calculators, including ICE, Nasdaq, S&P, Morningstar, Wilshire, Bloomberg, FactSet, IDC, and Capital IQ. I am passionate about cross-functional collaboration and delivering high-quality results to create exceptional client experiences.
+
+## Professional Experience
+
+### Invesco, Hyderabad, India (Apr 2018 – Present)
+- Led development and successful launch of BulletShares products (27 billion AUM, Q1 2025).
+- Developed algorithms for weight constraint, equal risk, and targeted risk portfolio frameworks.
+- Designed robust automation for daily index files and extended it to the full Fixed Income index family.
+- Automated comprehensive ETL processes integrating FactSet, Bloomberg, Snowflake, APIs, and increased productivity for tax optimization workflows by over 99.9%.
+- Migrated workflows from MATLAB to R/Python for cost reduction and operational efficiency.
+
+### Guggenheim Partners, Mumbai, India (Aug 2016 – Apr 2018)
+- Automated BulletShares index and pioneered index rebalancing project using MATLAB, enhancing scalability and efficiency.
+
+## Skills & Technologies
+
+- Python, R, SQL, MATLAB, FactSet
+- Bloomberg, FactSet, IDC, Capital IQ
+- Git, GitHub, Bitbucket, Docker, Power BI
+- Data management, database management, cloud environments
+- Process automation: Zapier, Make, Lindy
+- AI Toolkit: ChatGPT, Claude, LangChain, Open AI Playground, MidJourney, RunwayML
+- Presentation: MS Office, PowerPoint
+
+## Education & Certifications
+
+- Post-Graduate (Electronics & Telecomm, Mumbai University) – Distinction
+- Graduate (Electronics & Telecomm, Pune University) – First Class
+- Certified FactSet, MATLAB programmer
+
+## Achievements
+
+- PAW Award – Principles at Work (2019, Invesco)
+- Best Paper Award – ICSTSD, Kuala Lumpur, Malaysia (2016)
+- Scholarships from the Government of India and Maharashtra
+- Research funding from Mumbai University
+
+## Connect with Me
+
+- Location: Hyderabad, India
+- Email: tushar.shingade96gmail.com
+- Mobile: +91 9405874705
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Tushar Shingade</h1>
 <h3 align="center">A passionate Quant Researcher from India</h3>
 
