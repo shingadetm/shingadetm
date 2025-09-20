@@ -8,7 +8,7 @@
 
 ## About Me
 
-With over 9 years of experience in the asset management and indexing domain, I specialize in research, product development, portfolio analytics, and data management. My expertise spans leading market data providers and index calculators, including ICE, Nasdaq, S&P, Morningstar, Wilshire, Bloomberg, FactSet, IDC, and Capital IQ. I am passionate about cross-functional collaboration and delivering high-quality results to create exceptional client experiences.
+With over 9 years of experience in the asset management, Quantitative strategies, Custom Equity and indexing domain, I specialize in research, product development, portfolio analytics, and data management. My expertise spans leading market data providers and index calculators, including ICE, Nasdaq, S&P, Morningstar, Wilshire, Bloomberg, FactSet, IDC, and Capital IQ. I am passionate about cross-functional collaboration and delivering high-quality results to create exceptional client experiences.
 
 <h1 align="center">Languages and Tools</h1>
 <p align="left"> 
