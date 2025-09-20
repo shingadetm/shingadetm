@@ -57,7 +57,7 @@ With over 8.5 years of experience in the asset management and indexing domain, I
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shingadetm&label=Profile%20views&color=0e75b6&style=flat" alt="shingadetm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shingadetm" alt="shingadetm" /></a> </p>
+
 
 - 🔭 I’m currently working on **Project 1**
 
