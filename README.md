@@ -2,17 +2,18 @@
 # Hi,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Tushar Shingade 
 <h3 align="center">A passionate Quant Researcher | Masters in Engineering</h3>
 
-
+- Email: tushar.shingade96gmail.com
+- Mobile: +91 9405874705
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shingadetm&label=Profile%20views&color=0e75b6&style=flat" alt="shingadetm" /> </p>
 
 ## About Me
 
-With over 8.5 years of experience in the asset management and indexing domain, I specialize in research, product development, portfolio analytics, and data management. My expertise spans leading market data providers and index calculators, including ICE, Nasdaq, S&P, Morningstar, Wilshire, Bloomberg, FactSet, IDC, and Capital IQ. I am passionate about cross-functional collaboration and delivering high-quality results to create exceptional client experiences.
+With over 9 years of experience in the asset management and indexing domain, I specialize in research, product development, portfolio analytics, and data management. My expertise spans leading market data providers and index calculators, including ICE, Nasdaq, S&P, Morningstar, Wilshire, Bloomberg, FactSet, IDC, and Capital IQ. I am passionate about cross-functional collaboration and delivering high-quality results to create exceptional client experiences.
 
 ## Professional Experience
 
-### Invesco, Hyderabad, India (Apr 2018 – Present)
-- Led development and successful launch of BulletShares products (27 billion AUM, Q1 2025).
+### Invesco, Hydrabad India (Apr 2018 – Present)
+- Led development and successful launch of BulletShares products (30+ billion AUM, Q1 2025).
 - Developed algorithms for weight constraint, equal risk, and targeted risk portfolio frameworks.
 - Designed robust automation for daily index files and extended it to the full Fixed Income index family.
 - Automated comprehensive ETL processes integrating FactSet, Bloomberg, Snowflake, APIs, and increased productivity for tax optimization workflows by over 99.9%.
@@ -23,7 +24,7 @@ With over 8.5 years of experience in the asset management and indexing domain, I
 
 ## Skills & Technologies
 
-- Python, R, SQL, MATLAB, FactSet
+- Python, R, SQL, MATLAB, FactSet Screening 
 - Bloomberg, FactSet, IDC, Capital IQ
 - Git, GitHub, Bitbucket, Docker, Power BI
 - Data management, database management, cloud environments
@@ -47,8 +48,7 @@ With over 8.5 years of experience in the asset management and indexing domain, I
 ## Connect with Me
 
 - Location: Hyderabad, India
-- Email: tushar.shingade96gmail.com
-- Mobile: +91 9405874705
+
 
 
 
