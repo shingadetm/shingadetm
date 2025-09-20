@@ -1,5 +1,8 @@
 
-# Hi,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Tushar Shingade 
+# Hi,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Tushar Shingade
+<p align="right">
+<a href="https://linkedin.com/in/tushar-shingade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-shingade" height="30" width="40" /></a>
+</p>
 <h3 align="center">A passionate Quant Researcher | Masters in Engineering</h3>
 
 - Email: **tushar.shingade96gmail.com**
