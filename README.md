@@ -2,7 +2,7 @@
 # Hi,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Tushar Shingade 
 <h3 align="center">A passionate Quant Researcher | Masters in Engineering</h3>
 
-- Email: tushar.shingade96gmail.com
+- Email: **tushar.shingade96gmail.com**
 - Mobile: +91 9405874705
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shingadetm&label=Profile%20views&color=0e75b6&style=flat" alt="shingadetm" /> </p>
 
@@ -45,19 +45,9 @@ With over 9 years of experience in the asset management and indexing domain, I s
 - Scholarships from the Government of India and Maharashtra
 - Research funding from Mumbai University
 
-## Connect with Me
-
+## Additional Info
 - Location: Hyderabad, India
-
-
-
-
-
-
-
 - 👨‍💻 All of my projects are available at [Project profile link](Project profile link)
-
-- 📫 How to reach me **tushar.shingade96@gmail.com**
 
 - 📄 Know about my experiences [Resume link](Resume link)
 
@@ -92,12 +82,5 @@ With over 9 years of experience in the asset management and indexing domain, I s
 <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="40" height="40" /></a>
 </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shingadetm&show_icons=true&locale=en&layout=compact" alt="shingadetm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shingadetm&show_icons=true&locale=en" alt="shingadetm" /></p>
-
 
 
