@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Quant Researcher | Masters in Engineering</h3>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shingadetm&label=Profile%20views&color=0e75b6&style=flat" alt="shingadetm" /> </p>
 
 ## About Me
 
@@ -54,14 +55,6 @@ With over 8.5 years of experience in the asset management and indexing domain, I
 
 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shingadetm&label=Profile%20views&color=0e75b6&style=flat" alt="shingadetm" /> </p>
-
-
-
-- 🔭 I’m currently working on **Project 1**
-
 - 👨‍💻 All of my projects are available at [Project profile link](Project profile link)
 
 - 📫 How to reach me **tushar.shingade96@gmail.com**
@@ -82,61 +75,3 @@ With over 8.5 years of experience in the asset management and indexing domain, I
 
 
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<table>
-  <tr>
-    <td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70"/>
-    </a></td>
-    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/>
-    </a></td>
-    <td><a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-      <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="70" height="70"/>
-    </a></td>
-  </tr>
-  <tr>
-    <td><a href="https://d3js.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="70" height="70"/>
-    </a></td>
-    <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/>
-    </a></td>
-    <td><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="70" height="70"/>
-    </a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="70" height="70"/>
-    </a></td>
-    <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
-    </a></td>
-    <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="70"/>
-    </a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
-    </a></td>
-    <td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="70" height="70"/>
-    </a></td>
-    <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70"/>
-    </a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
-    </a></td>
-    <td><a href="https://zapier.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="70" height="70"/>
-    </a></td>
-    <td></td> <!-- Empty cell to balance last row -->
-  </tr>
-</table>
