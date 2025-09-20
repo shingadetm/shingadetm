@@ -1,5 +1,7 @@
 
 # Hi, I'm Tushar Shingade 👋
+<h3 align="center">A passionate Quant Researcher | Masters in Engineering</h3>
+
 
 ## About Me
 
@@ -52,8 +54,6 @@ With over 8.5 years of experience in the asset management and indexing domain, I
 
 
 
-<h1 align="center">Hi 👋, I'm Tushar Shingade</h1>
-<h3 align="center">A passionate Quant Researcher from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shingadetm&label=Profile%20views&color=0e75b6&style=flat" alt="shingadetm" /> </p>
 
