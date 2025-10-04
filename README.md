@@ -51,7 +51,7 @@ Quantitative researcher and asset management professional with  a decade of expe
 - Automated data ingestion and transformation pipelines integrating Bloomberg, FactSet, Snowflake, and APIs reducing manual processing time over 80%.
 - Created end-to-end portfolio optimization tools handling tax-efficient client presentation generation, enhancing workflow efficiency by 99%.
 - Migrated legacy MATLAB-based index workflows to Python and R reducing computational costs and driving cross-functional integration.
-- Developed automation of index rebalancing quality assurance systems, delivering daily monitoring and alert mechanisms for corporate actions and constituent changes.
+- Developed automation of index rebalancing quality assurance systems, delivering daily monitoring and alert mechanisms for corporate actions, constituent changes and any abnormalities. 
 
 ### Guggenheim Partners, Mumbai, India (Aug 2016 – Apr 2018)
 
@@ -59,10 +59,10 @@ Quantitative researcher and asset management professional with  a decade of expe
 
 ## Skills & Technologies
 
-Languages: Python (NumPy, Pandas, Scikit-learn), R, Matlab, SQL, API integration
-Tools: Bloomberg, FactSet, IDC, Capital IQ, Power BI, Git, Docker, Cloud (Azure, GCP)
-Analytics: Quantitative modeling, portfolio analytics, ETL automation, machine learning, Natural language processing, Neural network, AI fundamentals 
-Automation: Workflow scripting, data pipeline development, tax optimization automation
+- Languages: Python (NumPy, Pandas, Scikit-learn), R, Matlab, SQL, API integration
+- Tools: Bloomberg, FactSet, IDC, Capital IQ, Power BI, Git, Docker, Cloud (Azure, GCP)
+- Analytics: Quantitative modeling, portfolio analytics, ETL automation, machine learning, Natural language processing, Neural network, AI fundamentals
+- Automation: Workflow scripting, data pipeline development, tax optimization automation
 
 ## Education & Certifications
 
