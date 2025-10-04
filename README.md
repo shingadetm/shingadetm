@@ -11,13 +11,7 @@
 
 ## About Me
 
-Quantitative researcher and asset management professional with 8.5 years of experience in fixed income
-and equity index product development, portfolio analytics, and automation. Proficient in Python, R, Matlab,
-SQL, and cloud platforms with hands-on expertise in financial data management, algorithmic modeling, and
-systematic risk analysis. Demonstrated ability to develop scalable quant models and automation pipelines
-that significantly enhance portfolio management efficiency and support $27+ billion AUM product lines.
-Eager to leverage strong quantitative, programming, and financial market knowledge to excel in a quant
-finance role.
+Quantitative researcher and asset management professional with  a decade of experience in fixed income and equity index product development, portfolio analytics, and automation. Proficient in Python, R, Matlab, SQL, and cloud platforms with hands-on expertise in financial data management, algorithmic modeling, and systematic risk analysis. Demonstrated ability to develop scalable quant models and automation pipelines that significantly enhance portfolio management efficiency and support $30+ billion AUM product lines. Eager to leverage strong quantitative, programming, and financial market knowledge to excel in a quant finance role.
 
 <h1 align="center">Languages and Tools</h1>
 <p align="left"> 
@@ -51,24 +45,17 @@ finance role.
 ## Professional Experience
 
 ### Invesco, Hydrabad India (Apr 2018 – Present)
-Led quantitative research and development of BulletShares fixed income ETF strategies managing
-$27B+ AUM.
-• Designed and implemented weight constraint and equal/target risk portfolio algorithms improving index
-precision and risk management.
-• Developed automation workflows in Python and R for daily index projections and monthly rebalancing
-processes increasing operational efficiency by 90%.
-• Automated data ingestion and transformation pipelines integrating Bloomberg, FactSet, Snowflake, and
-APIs reducing manual processing time over 80%.
-• Created end-to-end portfolio optimization tools handling tax-efficient client presentation generation,
-enhancing workflow efficiency by 99%.
-• Migrated legacy MATLAB-based index workflows to Python and R reducing computational costs and
-driving cross-functional integration.
-• Developed automation of index rebalancing quality assurance systems, delivering daily monitoring and alert
-mechanisms for corporate actions and constituent changes.
+- Led quantitative research and development of BulletShares fixed income ETF strategies managing $30+ billion AUM.
+- Designed and implemented weight constraint and equal/target risk portfolio algorithms improving index precision and risk management.
+- Developed automation workflows in Python and R for daily index projections and monthly rebalancing processes increasing operational efficiency by 90%.
+- Automated data ingestion and transformation pipelines integrating Bloomberg, FactSet, Snowflake, and APIs reducing manual processing time over 80%.
+- Created end-to-end portfolio optimization tools handling tax-efficient client presentation generation, enhancing workflow efficiency by 99%.
+- Migrated legacy MATLAB-based index workflows to Python and R reducing computational costs and driving cross-functional integration.
+- Developed automation of index rebalancing quality assurance systems, delivering daily monitoring and alert mechanisms for corporate actions and constituent changes.
 
 ### Guggenheim Partners, Mumbai, India (Aug 2016 – Apr 2018)
 
-- Developed and automated index strategy algorithms in MATLAB, improving the accuracy and reliability
+- Developed and automated index strategy algorithms in MATLAB, improving the accuracy and reliability of fixed income index management processes.
 
 ## Skills & Technologies
 
@@ -79,8 +66,8 @@ Automation: Workflow scripting, data pipeline development, tax optimization auto
 
 ## Education & Certifications
 
-- Post-Graduate (Electronics & Telecomm, Mumbai University) – Distinction
-- Graduate (Electronics & Telecomm, Pune University) – First Class
+- Post-Graduate |Engineering (Electronics & Telecomm, Mumbai University) – Distinction
+- Graduate | Engineering (Electronics & Telecomm, Pune University) – First Class
 - Certified FactSet, MATLAB programmer
 
 ## Achievements
