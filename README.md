@@ -51,24 +51,31 @@ finance role.
 ## Professional Experience
 
 ### Invesco, Hydrabad India (Apr 2018 – Present)
-- Led development and successful launch of BulletShares products (30+ billion AUM).
-- Developed algorithms for weight constraint, equal risk, and targeted risk portfolio frameworks.
-- Designed robust automation for daily index files and extended it to the full Fixed Income index family.
-- Automated comprehensive ETL processes integrating FactSet, Bloomberg, Snowflake, APIs, and increased productivity for tax optimization workflows by over 99%.
-- Migrated workflows from MATLAB to R/Python for cost reduction and operational efficiency.
+Led quantitative research and development of BulletShares fixed income ETF strategies managing
+$27B+ AUM.
+• Designed and implemented weight constraint and equal/target risk portfolio algorithms improving index
+precision and risk management.
+• Developed automation workflows in Python and R for daily index projections and monthly rebalancing
+processes increasing operational efficiency by 90%.
+• Automated data ingestion and transformation pipelines integrating Bloomberg, FactSet, Snowflake, and
+APIs reducing manual processing time over 80%.
+• Created end-to-end portfolio optimization tools handling tax-efficient client presentation generation,
+enhancing workflow efficiency by 99%.
+• Migrated legacy MATLAB-based index workflows to Python and R reducing computational costs and
+driving cross-functional integration.
+• Developed automation of index rebalancing quality assurance systems, delivering daily monitoring and alert
+mechanisms for corporate actions and constituent changes.
 
 ### Guggenheim Partners, Mumbai, India (Aug 2016 – Apr 2018)
-- Automated BulletShares index and pioneered index rebalancing project using MATLAB, enhancing scalability and efficiency.
+
+- Developed and automated index strategy algorithms in MATLAB, improving the accuracy and reliability
 
 ## Skills & Technologies
 
-- Python, R, SQL, MATLAB, FactSet Screening 
-- Bloomberg, FactSet, IDC, Capital IQ
-- Git, GitHub, Bitbucket, Docker, Power BI
-- Data management, database management, cloud environments
-- Process automation: Zapier, Make, Lindy
-- AI Toolkit: ChatGPT, Claude, LangChain, Open AI Playground, MidJourney, RunwayML
-- Presentation: MS Office, PowerPoint
+Languages: Python (NumPy, Pandas, Scikit-learn), R, Matlab, SQL, API integration
+Tools: Bloomberg, FactSet, IDC, Capital IQ, Power BI, Git, Docker, Cloud (Azure, GCP)
+Analytics: Quantitative modeling, portfolio analytics, ETL automation, machine learning, Natural language processing, Neural network, AI fundamentals 
+Automation: Workflow scripting, data pipeline development, tax optimization automation
 
 ## Education & Certifications
 
