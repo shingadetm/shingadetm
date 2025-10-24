@@ -93,7 +93,7 @@ Quantitative researcher and asset management professional with  a decade of expe
 - Location: Hyderabad, India
 - 👨‍💻 All of my projects are available at [Project profile link](Project profile link)
 
-- 📄 Know about my experiences [Resume link](Resume link)
+- 📄 Know about my experiences [[TUSHAR SHINGADE-Resume.pdf](https://github.com/user-attachments/files/23134558/TUSHAR.SHINGADE-Resume.pdf)](Resume link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
