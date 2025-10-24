@@ -14,6 +14,9 @@
 Quantitative researcher and asset management professional with  a decade of experience in fixed income and equity index product development, portfolio analytics, and automation. Proficient in Python, R, Matlab, SQL, and cloud platforms with hands-on expertise in financial data management, algorithmic modeling, and systematic risk analysis. Demonstrated ability to develop scalable quant models and automation pipelines that significantly enhance portfolio management efficiency and support $30+ billion AUM product lines. Eager to leverage strong quantitative, programming, and financial market knowledge to excel in a quant finance role.
 
 
+<h1 align="center">Languages and Tools</h1>
+
+
 ![linkedIn Banner 4](https://github.com/user-attachments/assets/5cefb0bb-734d-4846-9874-62b371fe463c)
 
 
@@ -21,7 +24,7 @@ Quantitative researcher and asset management professional with  a decade of expe
 
 
 
-
+<!--
 <h1 align="center">Languages and Tools</h1>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python", title= "Python" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,7 +52,7 @@ Quantitative researcher and asset management professional with  a decade of expe
 <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="40" height="40" /></a>
 </p>
 
-
+-->
 
 ## Professional Experience
 
